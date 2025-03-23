@@ -124,7 +124,7 @@ A feature-rich messaging platform supporting **private/group chats**, **multimed
 ---
 
 
-<!-- Footer -->
+<!-- Footer 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+</div> -->
