@@ -30,29 +30,36 @@ Dedicated Frontend Developer with proven expertise in **React.js component archi
 
 ## 💼 Projects
 
-### File Converter Tool
+---
+
+### 🚀 **File Converter Tool**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Patelkeyur324/File-converter-tool.git)
 
-A comprehensive file conversion utility built with the MERN stack that allows users to transform files between various formats.
+A comprehensive file conversion utility built with the **MERN stack** that allows users to transform files between various formats.
 
 **Key Achievements:**
-- ⚡ Reduced processing time by 40% while supporting 12+ file formats
-- 📊 Implemented a scalable file queuing system increasing throughput by 50%
-- 🔐 Ensured secure handling of user data with robust validation
+- ⚡ **Reduced processing time by 40%** while supporting **12+ file formats**
+- 📊 Implemented a **scalable file queuing system** increasing throughput by **50%**
+- 🔐 Ensured **secure handling of user data** with robust validation
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js
 
-### Real-Time Chat Application
+---
+
+### 💬 **Real-Time Chat Application**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Patelkeyur324/real-Time-chat-app.git)
 
-A feature-rich messaging platform supporting private/group chats, multimedia sharing, and real-time notifications.
+A feature-rich messaging platform supporting **private/group chats**, **multimedia sharing**, and **real-time notifications**.
 
 **Key Achievements:**
-- 🔒 Implemented end-to-end encryption for secure communications
-- ⚡ Optimized server load handling, increasing message throughput by 30%
-- 📈 Integrated analytics and feedback mechanisms, boosting user retention by 25%
+- 🔒 Implemented **end-to-end encryption** for secure communications
+- ⚡ **Optimized server load handling**, increasing message throughput by **30%**
+- 📈 Integrated **analytics and feedback mechanisms**, boosting user retention by **25%**
 
 **Technologies:** Socket.io, React.js, Node.js, MongoDB
+
+---
+
 
 ## 🏆 Certifications
 
