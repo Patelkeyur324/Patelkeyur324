@@ -92,29 +92,23 @@ A feature-rich messaging platform supporting private/group chats, multimedia sha
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  
-  <!-- 3D GitHub Stats with advanced styling -->
-  <a href="https://github.com/Patelkeyur324">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patelkeyur324&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38D252&icon_color=1F6FEB&text_color=FFFFFF&border_radius=15" alt="Keyur's GitHub Stats"/>
-  </a>
   
   <a href="https://github.com/Patelkeyur324">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patelkeyur324&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38D252&text_color=FFFFFF&border_radius=15" alt="Keyur's Top Languages"/>
   </a>
-  
-  <!-- 3D Contribution Graph -->
+
+  <!-- 3D Contribution Graph
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Patelkeyur324&theme=react-dark&hide_border=true&bg_color=0D1117&color=38D252&line=1F6FEB&point=FFFFFF" alt="GitHub Activity Graph"/>
   
-  <!-- 3D Contribution Calendar -->
+  <!-- 3D Contribution Calendar 
   <a href="https://github.com/Patelkeyur324">
     <img src="https://github-profile-trophy.vercel.app/?username=Patelkeyur324&theme=algolia&no-frame=true&row=1&column=7" alt="Keyur's GitHub Trophies"/>
   </a>
   
-  <!-- Streak Stats with 3D styling -->
+  <!-- Streak Stats with 3D styling 
   <a href="https://github.com/Patelkeyur324">
     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Patelkeyur324&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=38D252&fire=38D252&currStreakLabel=38D252" alt="Keyur's GitHub Streak"/>
-  </a>
+  </a>  -->
 </div>
 
 <!-- Additional 3D visual elements -->
