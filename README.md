@@ -11,16 +11,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Linkedin">
-    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:keyurpatel322004@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Patelkeyur324">
-    <img src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.postman.com/api-student-expert">
-    <img src="https://img.shields.io/badge/API_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Expert" />
+    <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
