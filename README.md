@@ -99,13 +99,10 @@ A feature-rich messaging platform supporting private/group chats, multimedia sha
 
 ---
 
-<div align="center">
-  <b>💡 Creating pixel-perfect interfaces with clean, efficient code</b>
-</div>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keyur Patel & color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=keyurpatel324 & color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <!-- Footer -->
