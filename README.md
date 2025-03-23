@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+👋+I'm+[Your+Name];Frontend+Developer;UI%2FUX+Enthusiast;Crafting+Beautiful+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+👋+I'm+Keyur Patel;Frontend+Developer;Crafting+Beautiful+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <!-- About Me -->
