@@ -67,28 +67,6 @@ A feature-rich messaging platform supporting private/group chats, multimedia sha
 
 ## 💫 Connect With Me
 
-
-
-<!-- Alternative floating contacts (can use either the table above or this) -->
-<div align="center">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/keyur-patel-185a3024b" target="_blank">
-      <img width="48%" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:keyurpatel322004@gmail.com">
-      <img width="48%" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Patelkeyur324" target="_blank">
-      <img width="48%" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://www.instagram.com/keyur__patel_32?igsh=Z3pjdGFoeHQ0aW80" target="_blank">
-      <img width="48%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </p>
-</div>
-
 <!-- Animated contact buttons -->
 <div align="center">
   <a href="https://www.linkedin.com/in/keyur-patel-185a3024b" target="_blank">
