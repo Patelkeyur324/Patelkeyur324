@@ -67,34 +67,7 @@ A feature-rich messaging platform supporting private/group chats, multimedia sha
 
 ## 💫 Connect With Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/keyur-patel-185a3024b" target="_blank">
-          <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:keyurpatel322004@gmail.com">
-          <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Patelkeyur324" target="_blank">
-          <img src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.instagram.com/keyur__patel_32?igsh=Z3pjdGFoeHQ0aW80" target="_blank">
-          <img src="https://img.shields.io/badge/See_My_World-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <!-- Alternative floating contacts (can use either the table above or this) -->
 <div align="center">
