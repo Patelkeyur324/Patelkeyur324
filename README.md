@@ -1,24 +1,8 @@
 <!-- Header Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+👋+I'm+Keyur+Patel;Frontend+Developer;Crafting+Beautiful+Web+Experiences" alt="Typing SVG" />
-</div>
-
 # 🚀 Keyur Patel | Frontend Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=React.js+Developer;UI+Component+Specialist;API+Integration+Expert;Responsive+Design+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/Linkedin">
-    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:keyurpatel322004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Patelkeyur324">
-    <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Hi+there!+👋+I'm+Keyur+Patel;React.js+Developer;Responsive+Design+Enthusiast;Crafting+Beautiful+Web+Experiences" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
@@ -94,6 +78,22 @@ A feature-rich messaging platform supporting private/group chats, multimedia sha
 - English
 - Hindi
 - Gujarati
+
+## 💫 Conytact With Me
+<div align="center">
+  <a href="www.linkedin.com/in/keyur-patel-185a3024b">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:keyurpatel322004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Patelkeyur324">
+    <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/keyur__patel_32?igsh=Z3pjdGFoeHQ0aW80" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
