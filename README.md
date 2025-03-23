@@ -54,20 +54,6 @@ A feature-rich messaging platform supporting private/group chats, multimedia sha
 
 **Technologies:** Socket.io, React.js, Node.js, MongoDB
 
-## 🎓 Education
-
-- **B.Tech in Computer Engineering** (July 2021 - May 2025)  
-  Sankalchand Patel College of Engineering, Visnagar, Gujarat  
-  CGPA: 6.68
-
-- **HSC - PCM** (June 2019 - March 2021)  
-  S.K. Patel Shri Swaminarayan Gurukul School, Visnagar, Gujarat  
-  Percentage: 81%
-
-- **SSC** (June 2018 - March 2019)  
-  Shree M.H. Patel Netreshwar Vidyalaya, Bokarvada, Gujarat  
-  Percentage: 81.66%
-
 ## 🏆 Certifications
 
 - **Postman API Fundamentals Student Expert** (2025)  
@@ -79,21 +65,78 @@ A feature-rich messaging platform supporting private/group chats, multimedia sha
 - Hindi
 - Gujarati
 
-## 💫 Conytact With Me
+## 💫 Connect With Me
+
 <div align="center">
-  <a href="www.linkedin.com/in/keyur-patel-185a3024b">
-    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/keyur-patel-185a3024b" target="_blank">
+          <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:keyurpatel322004@gmail.com">
+          <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Patelkeyur324" target="_blank">
+          <img src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.instagram.com/keyur__patel_32?igsh=Z3pjdGFoeHQ0aW80" target="_blank">
+          <img src="https://img.shields.io/badge/See_My_World-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Alternative floating contacts (can use either the table above or this) -->
+<div align="center">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/keyur-patel-185a3024b" target="_blank">
+      <img width="48%" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:keyurpatel322004@gmail.com">
+      <img width="48%" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Patelkeyur324" target="_blank">
+      <img width="48%" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.instagram.com/keyur__patel_32?igsh=Z3pjdGFoeHQ0aW80" target="_blank">
+      <img width="48%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+</div>
+
+<!-- Animated contact buttons -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/keyur-patel-185a3024b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:keyurpatel322004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank" alt="Email" />
   </a>
-  <a href="https://github.com/Patelkeyur324">
-    <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Patelkeyur324" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/keyur__patel_32?igsh=Z3pjdGFoeHQ0aW80" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram" />
   </a>
 </div>
+
+<!-- SVG wave divider (adds a nice touch after contact section) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 ---
 
